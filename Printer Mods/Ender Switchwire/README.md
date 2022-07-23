@@ -14,6 +14,7 @@ To accomplish this I replaced the existing extensions with a set of longer exten
   - 18 M5 nuts
 
 ![extended deck parts](Images/6.png)
+There are two sets of deck plates.  One set is a full replacement for the front decks, the other is just a set of extensions.
 
 ![assembled deck extension](Images/3.jpg)
 
