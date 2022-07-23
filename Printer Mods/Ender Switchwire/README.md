@@ -6,7 +6,7 @@ The first simple modifications I made were to the upper idlers. I also had to ma
 
 ![custom upper idlers](Images/5.jpg)
 
-The rest of the modifications were pretty sustatial.  First, I wanted to extend the deck to be close to the same length as the real Switchwire and allow me to attach a display in the same way. I go through the install in this live stream: https://www.youtube.com/watch?v=oB8BYyM82n4&t=2573s.
+The rest of the modifications were pretty substantial.  First, I wanted to extend the deck to be close to the same length as the real Switchwire and allow me to attach a display in the same way. I go through the install in this live stream: https://www.youtube.com/watch?v=oB8BYyM82n4&t=2573s.
 
 To accomplish this I replaced the existing extensions with a set of longer extensions. This modification does away with the requirement for 8 M5x60 SHCS bolts. Instead you will need 
   - 16 M5x20 SHCS or BHCS bolts
