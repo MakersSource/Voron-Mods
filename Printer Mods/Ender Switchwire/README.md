@@ -1,4 +1,4 @@
-I recently finished streaming my build series for one of the common Ender 3 to Voron Switchwire conversions. The repository for that conversion can be found here: https://github.com/boubounokefalos/Ender_SW. During the build I ran into a few things that I wanted to change to make my Ender Switchwire more like my actual Switchwire. Note that I do not plan on enclosing this printer.
+I recently finished streaming my build series for a very popular Ender 3 to Voron Switchwire conversion. The repository for that conversion can be found here: https://github.com/boubounokefalos/Ender_SW. During the build I ran into a few things that I wanted to change to make my Ender Switchwire more like my actual Switchwire. Note that I do not plan on enclosing this printer.
 
 To do this I made a few changes and have shared the STL files for those customizations here.
 
