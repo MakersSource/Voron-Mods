@@ -14,9 +14,10 @@ To accomplish this I replaced the existing extensions with a set of longer exten
   - 18 M5 nuts
 
 ![extended deck parts](Images/6.png)
-There are two sets of deck plates.  One set is a full replacement for the front decks, the other is just a set of extensions.
+There are two sets of deck plates.  One set is a full replacement for the front decks, the other is just a set of extensions (pictured).
 
 ![assembled deck extension](Images/3.jpg)
+(full front decks)
 
 Finally, I updated the layout of the electronics bay to make eveything a little more accessable. This required a new mount for theww Raspberry Pi and longer 4040 poweer supply mounts and I moved the plug form the middle to the side.
 ![electronics bay layout](Images/2.jpg)
