@@ -19,5 +19,5 @@ There are two sets of deck plates.  One set is a full replacement for the front 
 ![assembled deck extension](Images/3.jpg)
 (full front decks)
 
-Finally, I updated the layout of the electronics bay to make eveything a little more accessable. This required a new mount for theww Raspberry Pi and longer 4040 poweer supply mounts and I moved the plug form the middle to the side.
+Finally, I updated the layout of the electronics bay to make eveything a little more accessable. This required a new mount for the Raspberry Pi and longer 4040 power supply mounts. I also moved the plug form the middle to the side.
 ![electronics bay layout](Images/2.jpg)
