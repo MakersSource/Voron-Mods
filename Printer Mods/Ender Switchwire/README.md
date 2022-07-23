@@ -2,16 +2,20 @@ I recently finished streaming my build series for one of the common Ender 3 to V
 
 To do this I made a few changes and have shared the STL files for those customizations here.
 
-
 The first simple modifications I made were to the upper idlers. I also had to make some thinner XY Tensioners as I found the originals were too wide and would not fit.
 ![custom upper idlers](Images/5.jpg)
 
-The rest of the modifications were pretty sustatial.  First, I wanted to extend the deck to be close to the same length as the real Switchwire and allow me to attach a display in the same way.
+The rest of the modifications were pretty sustatial.  First, I wanted to extend the deck to be close to the same length as the real Switchwire and allow me to attach a display in the same way. I go through the install in this live stream: https://www.youtube.com/watch?v=oB8BYyM82n4&t=2573s.
 
-To accomplish this I replaced the existing extensions with a set of longer extensions.
+To accomplish this I replaced the existing extensions with a set of longer extensions. This modification does away with the requirement for 8 M5x60 SHCS bolts. Instead you will need 
+  - 16 M5x20 SHCS or BHCS bolts
+  - 8 M5x20 SHCS bolts
+  - 2 M5x16mm bolts
+  - 18 M5 nuts
+
 ![extended deck parts](Images/6.png)
 
 ![assembled deck extension](Images/3.jpg)
 
-Finally I updated the layout of the electronics bay to make eveything a little more accessable. This required a new mount for theww Raspberry Pi and longer 4040 poweer supply mounts.
+Finally, I updated the layout of the electronics bay to make eveything a little more accessable. This required a new mount for theww Raspberry Pi and longer 4040 poweer supply mounts and I moved the plug form the middle to the side.
 ![electronics bay layout](Images/2.jpg)
